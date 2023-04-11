@@ -12,5 +12,9 @@ Drug Interaction Data Retrieval from DrugBank
 Consultation and Communication Features for Patients and Doctors
 Join the e-nurse community and experience the future of healthcare today! 💻🩺
 
+
+Patient's dashboard demo:
 @[vimeo](https://vimeo.com/802020334/615b8803b9?embedded=true&source=vimeo_logo&owner=110028044)
 
+Doctor's dashboard demo:
+@[vimeo](https://vimeo.com/802035175/f938ca2a6a?embedded=true&source=vimeo_logo&owner=110028044)
